@@ -1,5 +1,5 @@
 function s=strdate2()
-	% STRDATE returns the date as a numerical, '-'-separated date string.
+	% STRDATE2 returns the date as a numerical, '-'-separated date string.
 	%   In contrast to strdate, it includes seconds.
 	%
 	% @author B. Schauerte
